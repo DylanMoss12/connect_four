@@ -1,0 +1,1 @@
+For this project, I will be creating a game of connect four using TDD. I will create tests for the game, and then code to pass those tests, until I have my final game.
